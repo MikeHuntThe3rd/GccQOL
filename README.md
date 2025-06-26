@@ -10,4 +10,5 @@ project/
 ├── src/            # Source files (.cpp)
 │   └── source.cpp
 ├── main.cpp        # Main program
-└── Makefile ```
+└── Makefile
+```
