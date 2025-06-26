@@ -6,7 +6,8 @@ project/
 │   ├── glfw3.lib       # Windows static
 │   └── libglfw.dll.a   # MinGW import lib
 ├── include/        # Header files (.h)
-│   └── header.h ├── src/            # Source files (.cpp)
+│   └── header.h
+├── src/            # Source files (.cpp)
 │   └── source.cpp
 ├── main.cpp        # Main program
 └── Makefile ```
